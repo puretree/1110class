@@ -13,12 +13,12 @@ from datetime import datetime
 
 
 # db setting
-host = 'host'
-port = 'PORT'
-username = urllib.parse.quote_plus('帳號')
-password = urllib.parse.quote_plus('密碼')
+host = 'ds157923.mlab.com'
+port = '57923'
+username = urllib.parse.quote_plus('scotttest')
+password = urllib.parse.quote_plus('justforlove01')
 # Authentication Database
-Authdb='資料庫'
+Authdb='scotttest'
 
 
 def init_db():

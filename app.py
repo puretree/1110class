@@ -22,8 +22,8 @@ import mongodb
 
 app = Flask(__name__)
 
-line_bot_api = LineBotApi('Channel access token (long-lived)')
-handler = WebhookHandler('Channel secret')
+line_bot_api = LineBotApi('5mOUt/ik+AVsh0PNnazcT8Y26jwWrJYh5ouDBD5FK7HHwmSP6aYqzLUQ9LIdp3xDSYssbSnT28ethY7iV1jlf7Xx1YruC5VyQUA05sI0Xq8CIyVPLfOeRJ1sVj/G/uJ6I8Js9FOtnczwMlnQkUKsuAdB04t89/1O/w1cDnyilFU=')
+handler = WebhookHandler('e1c4f2fdc434a2d106be36a19fe24f7c')
 
 
 
